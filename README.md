@@ -1,0 +1,12 @@
+Planning 2024
+| Datum        | Bijzonder   | Onderwerp(en)           | Detail                                                            | Door  | Opmerkingen                                                         |   |   |   |   |
+|--------------|-------------|-------------------------|-------------------------------------------------------------------|-------|---------------------------------------------------------------------|---|---|---|---|
+| di 7-1-2025  |             | Printer                 |                                                                   |       |                                                                     |   |   |   |   |
+| di 21-1-2025 |             | Printer + Opfris GitHub |                                                                   | Joep  |                                                                     |   |   |   |   |
+| di 4-2-2025  |             | Printer                 |                                                                   |       |                                                                     |   |   |   |   |
+| di 18-2-2025 |             | Node-RED                |                                                                   | Rudy  |                                                                     |   |   |   |   |
+| di 4-3-2025  | Carnaval    | Geen clubavond          |                                                                   |       |                                                                     |   |   |   |   |
+| di 18-3-2025 |             | Phyton                  | Basis met Thonny                                                  | Rudy  | Rudy zoekt geschikt boek en kijkt ook naar oude folder op harddisk  |   |   |   |   |
+| di 1-4-2025  |             | Phyton                  | Pygame met Thonny                                                 | Rudy  |                                                                     |   |   |   |   |
+| di 15-4-2025 |             | Phyton                  | microPython op micro:bit met Thonny en/of micro:bit Python Editor | Chris |                                                                     |   |   |   |   |
+| di 29-4-2025 | Meivakantie |                         |                                                                   |       |                                                                     |   |   |   |   |
