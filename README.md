@@ -1,4 +1,4 @@
-| Datum        | Bijzonder   | Onderwerp(en)                            | Detail                                                            | Door          | Opmerkingen                                                         |
+| Datum&nbsp;&nbsp;&nbsp;&nbsp;       | Bijzonder   | Onderwerp(en)                            | Detail                                                            | Door          | Opmerkingen                                                         |
 |--------------|-------------|------------------------------------------|-------------------------------------------------------------------|---------------|---------------------------------------------------------------------|
 | di 7-1-2025  |             | Printer                                  |                                                                   |               |                                                                     |
 | di 21-1-2025 |             | Printer + Opfris GitHub                  |                                                                   | Joep          |                                                                     |
