@@ -1,3 +1,5 @@
+Inschrijven voor de activiteiten kan via https://www.meetup.com/vughtse-programmeerclub
+
 | Datum&nbsp;&nbsp;&nbsp;&nbsp;       | Bijzonder   | Onderwerp(en)                            | Detail                                                            | Door          | Opmerkingen                                                         |
 |--------------|-------------|------------------------------------------|-------------------------------------------------------------------|---------------|---------------------------------------------------------------------|
 | di 7-1-2025  |             | Printer                                  |                                                                   |               |                                                                     |
